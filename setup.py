@@ -45,7 +45,7 @@ __license__ = 'MIT'
 __author_email__ = 'charlie.clark@clark-consulting.eu'
 __url__ = 'https://github.com/compyman/et_xmlfile'
 
-setup(name='et_xmlfile_2021',
+setup(name='et_xmlfile',
     packages
 =find_packages(),
     # metadata
